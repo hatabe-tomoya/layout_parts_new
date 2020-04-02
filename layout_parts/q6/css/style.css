@@ -26,7 +26,7 @@
 
 .q6--around.is-table .q6__box {
   display: table-cell;
-  background-color: #ECF1F2;
+  background-color: #ecf1f2;
   text-align: center;
   vertical-align: middle;
 }
@@ -34,7 +34,7 @@
 .q6--around.is-table .q6__box__text {
   display: inline-block;
   padding: 10px;
-  background-color: #FFF;
+  background-color: #fff;
 }
 
 .q6--around.is-flex {
@@ -45,7 +45,7 @@
 
 .q6--around.is-flex .q6__box__text {
   padding: 10px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .q6--position .q6__box {
@@ -65,7 +65,6 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  text-align: center;
   transform: translate(-50%, -50%);
 }
 
