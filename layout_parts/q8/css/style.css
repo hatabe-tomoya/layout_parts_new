@@ -10,7 +10,7 @@
   cursor: pointer;
 }
 
-.imgwrap__img1{
+.imgwrap__img{
   transition: all .5s;
 }
 
@@ -24,15 +24,15 @@
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .8));
 }
 
-.imgwrap:hover .imgwrap__img1 {
+.imgwrap:hover .imgwrap__img{
   transform: scale(1.5);
-}
+} 
 
-.imgwrap:hover .imgwrap__bottom{
+.imgwrap:hover .imgwrap__bottom {
   bottom: 0;
 }
 
-.imgwrap__bottom__text{
+.imgwrap__bottom__text {
   position: absolute;
   bottom: 0;
   left: 0;
