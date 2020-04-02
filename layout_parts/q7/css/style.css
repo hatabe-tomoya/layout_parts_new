@@ -87,7 +87,7 @@
 }
 
 .q7__inner.is-full {
-  align-items: flex-start;
+  vertical-align: top;
 }
 
 .q7--margin .q7__box__text {
