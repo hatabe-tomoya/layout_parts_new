@@ -2,10 +2,11 @@
 
 /* 回答はここに書いてね */
 .q1_content {
-  width: 900px;
+  width: 940px;
   background-color: #eff3f4;
   margin: 0 auto;
   padding: 20px;
+  box-sizing: border-box;
 }
 
 .q1_content_box {
@@ -22,14 +23,16 @@
   clear: both;
 } 
 
-.q1_content_text {
-  font-size: 16px;
-  line-height: 16px;
+.q1_content_text { 
   background-color: #eaf4ff;
   border: 10px solid #022336;
   padding: 20px;
 }
 
+.q1_content_text p {
+  font-size: 16px;
+  line-height: 16px;
+}
 .q1_content_box:first-child {
   margin-left: 0;
 } 
