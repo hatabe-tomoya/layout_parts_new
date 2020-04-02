@@ -2,10 +2,11 @@
 
 /* 回答はここに書いてね */
 .q2_content {
-  width: 900px;
+  width: 940px;
   background-color: #eff3f4;
   margin: 0 auto;
   padding: 20px;
+  box-sizing: border-box;
 }
 
 .q2_content_text {
